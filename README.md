@@ -18,7 +18,6 @@ Badges:
 [![Latest Unstable Version](https://poser.pugx.org/engelju/composer_github/v/unstable)](https://packagist.org/packages/engelju/composer_github)
 [![Build Status](https://travis-ci.org/engelju/sandbox.svg)](https://travis-ci.org/engelju/sandbox)
 [![Travis](https://img.shields.io/travis/engelju/sandbox.svg)](https://travis-ci.org/engelju/sandbox)
-[![Codeship Status for engelju/helloworld](https://codeship.com/projects/240d2e40-46a4-0134-4237-3a2b7d7aa9d2/status?branch=master)](https://codeship.com/projects/168946)
 
 # HOWTOs
 
