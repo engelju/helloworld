@@ -7,4 +7,4 @@ php:
 before_install:
   - composer install
 
-script: vendor/bin/phpunit --configuration tests/phpunit.xml --coverage-text --whitelist src/
+script: vendor/bin/phpunit
