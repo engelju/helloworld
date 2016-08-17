@@ -17,7 +17,13 @@ Badges:
 [![Latest Stable Version](https://poser.pugx.org/engelju/composer_github/v/stable)](https://packagist.org/packages/engelju/composer_github)
 [![Latest Unstable Version](https://poser.pugx.org/engelju/composer_github/v/unstable)](https://packagist.org/packages/engelju/composer_github)
 [![Build Status](https://travis-ci.org/engelju/helloworld.svg)](https://travis-ci.org/engelju/helloworld)
-[![Codeship](https://img.shields.io/codeship/240d2e40-46a4-0134-4237-3a2b7d7aa9d2.svg)]()
+[![Codeship Status for engelju/helloworld](https://codeship.com/projects/240d2e40-46a4-0134-4237-3a2b7d7aa9d2/status?branch=master)](https://codeship.com/projects/168946)
+
+shields.io badges:
+
+[![Travis](https://img.shields.io/travis/engelju/helloworld.svg)](https://travis-ci.org/engelju/helloworld)
+[![Codeship](https://img.shields.io/codeship/240d2e40-46a4-0134-4237-3a2b7d7aa9d2.svg)](https://codeship.com/projects/168946)
+
 
 # HOWTOs
 
