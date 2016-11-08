@@ -135,21 +135,26 @@ $ tree -L 3
 ```
 
 ## PHPUnit / Testing
+## Packagist 
 
 ## Git
+- Branches
+- Committing
+- Remotes
 
 ## Multiple SSH Keys
 
 Helpful docs:
-
 - https://help.github.com/articles/generating-ssh-keys/
 - http://serverfault.com/questions/221760/multiple-public-keys-for-one-user
 - https://gist.github.com/jexchan/2351996
 - http://www.robotgoblin.co.uk/blog/2012/07/24/managing-multiple-ssh-keys/
 
 ## Github
-
-## Packagist
+- Issues
+- Pull Requests
+    - Working on your own stuff
+    - Contributing on other projects
 
 ## Webhooks
 
