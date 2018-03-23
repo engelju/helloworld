@@ -2,7 +2,7 @@
 
 use HelloWorld\SayHello;
 
-class SayHelloTest extends \PHPUnit_Framework_TestCase
+class SayHelloTest extends \PHPUnit\Framework\TestCase
 {
     public function testWorld()
     {
